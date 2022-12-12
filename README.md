@@ -33,3 +33,6 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
+<img width="362" alt="Captura de pantalla 2022-12-12 a las 21 54 42" src="https://user-images.githubusercontent.com/117173824/207133607-f356c23d-e57c-4a12-bb42-f0d0cf89398b.png">
+
